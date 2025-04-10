@@ -4,7 +4,7 @@ this project is trying to make use of all learned  data cleaning methods to prep
 ### 📎 Dataset Information
 The dataset is form Kaggle
 
-🔗 [Airbnb Dataset on Kaggle]([https://www.kaggle.com/datasets/path-to-dataset](https://www.kaggle.com/code/sayanroy729/airbnb-open-data-eda-step-by-step/input))
+🔗 [Airbnb Dataset on Kaggle](https://www.kaggle.com/datasets/path-to-dataset](https://www.kaggle.com/code/sayanroy729/airbnb-open-data-eda-step-by-step/input)
 ### 🧼 Data cleaning summary
   🗂️ Dataset Description
 	•	Source: (e.g., Inside Airbnb / Kaggle – add link if available) <br>
