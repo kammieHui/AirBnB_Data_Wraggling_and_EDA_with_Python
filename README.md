@@ -29,22 +29,16 @@ This project demonstrates practical data cleaning techniques on a real-world pub
 6. Prepare data for analysis (e.g., convert `price` to float, parse dates)
 
 ---
+### 📊 EDA Summary (link to Notebook 2 + include key plots)
 
-### 📓 Notebooks
+---
+### 🧠 Insights or business takeaways
+---
+### 📓 Jupyter Notebook
 - 🧹 [Data Cleaning Notebook](notebooks/1_data_cleaning_airbnb.ipynb)  
 - 📊 [EDA & Visualization Notebook](2_eda_visualization_airbnb.ipynb) *(optional if you plan to do EDA later)*
 
 ---
-
 ### 🛠 Tools Used
 - Python (Pandas, NumPy)
-- Jupyter Notebook
 
----
-
- 
-### 📊 EDA Summary (link to Notebook 2 + include key plots)
-
-### 🧠 Insights or business takeaways
-
-### 🔍 Tools used (Pandas, Seaborn, etc.)
