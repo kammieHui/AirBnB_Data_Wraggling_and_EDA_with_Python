@@ -31,7 +31,7 @@ This project demonstrates practical data cleaning techniques on a real-world pub
 ---
 
 ### 📓 Notebooks
-- 🧹 [Data Cleaning Notebook](1_data_cleaning_airbnb.ipynb)  
+- 🧹 [Data Cleaning Notebook](notebooks/1_data_cleaning_airbnb.ipynb)  
 - 📊 [EDA & Visualization Notebook](2_eda_visualization_airbnb.ipynb) *(optional if you plan to do EDA later)*
 
 ---
