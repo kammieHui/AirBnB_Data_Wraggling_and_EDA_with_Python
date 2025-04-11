@@ -30,6 +30,24 @@ This project demonstrates practical data cleaning techniques on a real-world pub
 
 ---
 ### 📊 EDA Summary (link to Notebook 2 + include key plots)
+•	📌 Count Plot Subplots<br>
+&emsp;Visualized distributions of key categorical variables.<br>
+•	📦 Box Plot Subplots<br>
+&emsp;Examined spread and outliers in numerical variables.<br>
+•	🏙️ Bar Chart: Top 30 Neighborhoods by Listings<br>
+&emsp;Highlighted the most active areas based on listing counts.<br>
+•	💰 Stacked Histogram: Listing Price Distribution by Neighborhood Group<br>
+&emsp;Compared price ranges across different neighborhood groups.<br>
+•	🏗️ Stacked Bar Chart: Listings by Year Built (per Neighborhood Group)<br>
+&emsp;Analyzed the age distribution of listings geographically.<br>
+•	🛏️ Stacked Bar Chart: Room Type Distribution by Neighborhood Group<br>
+&emsp;Observed how room types vary across locations.<br>
+•	🧊 Correlation Heatmap (sns.heatmap)<br>
+&emsp;Explored relationships between numeric features such as price, reviews, availability, and more.<br>
+•	📍 Scatter Plot: Price vs. Service Fee<br>
+&emsp;Investigated the relationship between listing price and service fees.<br>
+•	☁️ Word Cloud: House Rules<br>
+&emsp;Visualized most common phrases in the house rules section.<br>
 
 ---
 ### 🧠 Insights or business takeaways
