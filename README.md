@@ -59,7 +59,32 @@ This project demonstrates practical data cleaning techniques on a real-world pub
 
 ---
 ### 🧠 Insights or business takeaways
-1. ver
+## 📊 Key Insights from Data Visualizations
+
+### Host & Review Patterns
+- Nearly 50% of hosts are not identity-verified, raising potential safety concerns.
+- Majority of listings are *entire homes* or *private rooms*.
+- Guest reviews mostly fall within the 2–5 star range.
+
+### Outlier Detection
+- Outliers found in: `minimum_nights`, `number_of_reviews`, `reviews_per_month`,  
+  `calculated_host_listings_count`, and `availability_365`.
+
+### Listing Price Distribution
+- Listing prices are fairly evenly distributed across all neighborhood groups.
+
+### Home Age by Neighborhood
+- The age of homes (year built) is similarly distributed across neighborhoods.
+
+### Correlation Insights
+- Strong correlation found between *listing price* and *service fee*.
+
+### Price vs. Service Fee Patterns
+- Identified three service fee calculation models:
+  - **Fixed Fees** – Flat fee regardless of price (vertical lines).
+  - **Proportional Fees** – Fee scales with price (diagonal trend).
+  - **Flat Fees at Specific Price Points** – Notably around $620 (horizontal clusters).
+- Most listings appear to use proportional service fees.
 ---
 ### 📓 Jupyter Notebook
 - 🧹 [Data Cleaning Notebook](notebooks/1_data_cleaning_airbnb.ipynb)  
