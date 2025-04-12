@@ -22,12 +22,10 @@ This project demonstrates practical data cleaning techniques on a real-world pub
 - Remove duplicates
 - Fix inconsistent values
 - Drop irrelevant columns
-- Convert fields (e.g. `price` to float, date parsing)
-  
-📓 [Notebook 1: data cleaning airbnb](notebooks/1_data_cleaning_airbnb.ipynb) 
+- Convert fields (e.g. `price` to float, date parsing)<br>📓 [Notebook 1: data cleaning airbnb](notebooks/1_data_cleaning_airbnb.ipynb) 
 ---
 ## 📊 Exploratory Data Analysis (EDA)
-📓 [Notebook2: eda visualization airbnb](notebooks/2_eda_visualization_airbnb.ipynb) 
+  📓 [Notebook2: eda visualization airbnb](notebooks/2_eda_visualization_airbnb.ipynb) 
 
 Key Visualizations:
 - **Count Plots**: Host verification, room types, and review scores
