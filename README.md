@@ -67,7 +67,7 @@ Key Visualizations:
 
 ---
 ## ⚙️ How to Reproduce
-1. Download raw dataset from [Kaggle](#)
+1. Download raw dataset from [Kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata) 
 2. Run the notebooks in the `notebooks/` folder:
    - `1_data_cleaning.ipynb`
    - `2_eda_visualizations.ipynb`
