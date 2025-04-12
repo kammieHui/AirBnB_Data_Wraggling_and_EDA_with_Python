@@ -24,10 +24,10 @@ This project demonstrates practical data cleaning techniques on a real-world pub
 - Drop irrelevant columns
 - Convert fields (e.g. `price` to float, date parsing)
   
-📓 [Notebook:](notebooks/1_data_cleaning_airbnb.ipynb) 
+📓 [Notebook 1: data cleaning airbnb](notebooks/1_data_cleaning_airbnb.ipynb) 
 ---
 ## 📊 Exploratory Data Analysis (EDA)
-📓 [Notebook:](notebooks/2_eda_visualization_airbnb.ipynb) 
+📓 [Notebook2: eda visualization airbnb](notebooks/2_eda_visualization_airbnb.ipynb) 
 
 Key Visualizations:
 - **Count Plots**: Host verification, room types, and review scores
@@ -60,6 +60,8 @@ Key Visualizations:
   - **Fixed Fees** (flat rate)
   - **Proportional Fees** (price × rate)
   - **Specific Price Point Fees** (e.g., $620 cluster)
+    
+#### 📸 More plots available inside the notebooks and images/ folder.
 ---
 ## 🛠 Tools Used
 - Python (Pandas, NumPy, Matplotlib, seaborn, wordcloud)
@@ -67,9 +69,9 @@ Key Visualizations:
 
 ---
 ## ⚙️ How to Reproduce
-1. Download raw dataset from [Kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata) 
-2. Run the notebooks in the `notebooks/` folder:
-   - `1_data_cleaning.ipynb`
-   - `2_eda_visualizations.ipynb`
 
+1. Download the raw dataset from [Kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata) and save it in the `notebooks/` folder.
+2. Open and run the notebooks:
+   - [Notebook 1: data cleaning airbnb](notebooks/1_data_cleaning_airbnb.ipynb) 
+   - [Notebook 2: eda visualization airbnb](notebooks/2_eda_visualization_airbnb.ipynb) 
 
