@@ -59,6 +59,7 @@ This project demonstrates practical data cleaning techniques on a real-world pub
 
 ---
 ### 🧠 Insights or business takeaways
+1. ver
 ---
 ### 📓 Jupyter Notebook
 - 🧹 [Data Cleaning Notebook](notebooks/1_data_cleaning_airbnb.ipynb)  
@@ -66,5 +67,5 @@ This project demonstrates practical data cleaning techniques on a real-world pub
 
 ---
 ### 🛠 Tools Used
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy, Matplotlib, seaborn, wordcloud)
 
