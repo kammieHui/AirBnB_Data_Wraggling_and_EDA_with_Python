@@ -46,8 +46,8 @@ Key Visualizations:
 - Reviews mostly fall in the 2–5 range
 
 ### Outlier Detection
-- Outliers found in: `minimum_nights`, `number_of_reviews`, `reviews_per_month`
-- `calculated_host_listings_count`, `availability_365`.
+- Outliers found in:<br> `minimum_nights`, `number_of_reviews`, `reviews_per_month`
+  <br>`calculated_host_listings_count`, `availability_365`.
 
 ### Listing Price Distribution
 - Listing prices are fairly evenly distributed across all neighborhood groups.
